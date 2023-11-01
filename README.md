@@ -19,7 +19,7 @@ I'm a design engineer with a passion for programming.
 
 ![](https://img.shields.io/badge/HW-RaspberryPi-informational?style=for-the-badge&logo=raspberrypi&logoColor=white&color=001C30&labelColor=64CCC5)
 ![](https://img.shields.io/badge/HW-ESP-informational?style=for-the-badge&logo=espressif&logoColor=white&color=001C30&labelColor=64CCC5)
-![](https://img.shields.io/badge/HW-ESP-informational?style=for-the-badge&logo=arduino&logoColor=white&color=001C30&labelColor=64CCC5)
+![](https://img.shields.io/badge/HW-Arduino-informational?style=for-the-badge&logo=arduino&logoColor=white&color=001C30&labelColor=64CCC5)
 
 
 ## Hacktoberfest 2023
